@@ -1,6 +1,6 @@
 package CHAPTER6;
 
-public class CH_6_3 {
+public class CH6_3 {
     public static void main(String[] args) {
         System.out.println("Card.width = " + Card.width);
         System.out.println("Card.height = " + Card.height);

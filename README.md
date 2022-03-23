@@ -9,6 +9,8 @@
   * [예제코드 실습]("https://github.com/diger-king/Java/tree/main/CHAPTER4")
 * CHAPTER 6 - 객체지향 프로그래밍 1
   * [예제코드 실습]("https://github.com/diger-king/Java/tree/main/CHAPTER6")
+* CHAPTER 7 - 객체지향 프로그래밍 2
+  * [예제코드 실습]("https://github.com/diger-king/Java/tree/main/CHAPTER7")
 
 
 [//]: # (* AOP)

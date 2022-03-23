@@ -1,6 +1,6 @@
 package CHAPTER6;
 
-public class CH_6_6 {
+public class CH6_6 {
     public static void main(String[] args) {
         Data d = new Data();
         d.x = 10;

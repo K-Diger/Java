@@ -1,6 +1,6 @@
 package CHAPTER6;
 
-public class CH_6_2 {
+public class CH6_2 {
     public static void main(String[] args) {
         Tv t1 = new Tv();
         Tv t2 = new Tv();
